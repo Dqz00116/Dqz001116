@@ -1,16 +1,29 @@
-<p align="center">
-  <samp>
-    欢迎访问摸🐟怪の宝具仓库✨
-    </br><br/>
-    <img width="180px" src="https://cdn.jsdelivr.net/gh/Dqz00116/pic//img/20210521110316.gif">
-    <img src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Dqz00116&show_icons=true&hide_border=true">
-    <br/><br/>
-    摸🐟怪的博客 <a href="https://www.nekonet.cn/">→ 戳我 ←</a>
-    <br/><br/>
-    可以加🐧好友一起玩🎈
-    <br/>
-    ↓ ↓ ↓
-    <br/>
-    <img align="center" width="80px" src="https://cdn.jsdelivr.net/gh/Dqz00116/pic//img/20210521113055.png"></div> 
-  </samp>
-</p>
+# 欢迎访问摸🐟怪の宝具仓库✨  Welcome To My Treasure Warehouse✨
+
+我是一名UE程序员
+
+I am an Unreal Engine Gameplay Programmer.
+
+喜欢玩游戏，梦想是做GalGame💕
+
+Loving playing games and Dreaming to make GalGame💕
+
+摸🐟怪的博客 [**→ 戳我 ←**](https://www.nekonet.cn/) (~里面没有任何有价值的内容，因为我懒得更新~)
+
+Welcome to my [**Blog**](https://www.nekonet.cn/) (~Nothing in my blog, becase lazy to udate~)
+
+----------------------
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Mill413&show_icons=true&hide_border=true"></a>
+
+## 技术栈 Languages & Tools
+
+![cpp](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![ue](https://img.shields.io/badge/-UnrealEngine-black?style=flat-square&logo=unrealengine&logoColor=fff)
+
+![opengl](https://img.shields.io/badge/-OpenGL-darkslategray?style=flat-square&logo=opengl&logoColor=fff)
+![blender](https://img.shields.io/badge/-blender-orange?style=flat-square&logo=blender&logoColor=fff)
+
+![python](https://img.shields.io/badge/-Python-springgreen?style=flat-square&logo=Python&logoColor=fff)
+![conda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda&logoColor=fff)
+
